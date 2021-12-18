@@ -1,6 +1,6 @@
 # Prediction-of-likeliness-of-cardiovascular-disease-using-machine-learning-algorithms
 
-# Abstract -------------------------------------------------------------------------------
+# Abstract 
 A cardiovascular disease (CVD) is a disorder that affects the heart or blood
 vessels. Cardiovascular illnesses include heart attacks, heart failure, arrhythmia,
 coronary heart disease, and many others. Smoking, blood pressure, cholesterol
@@ -22,7 +22,7 @@ preprocessing and scaling approaches to clean the dataset, different classifiers
 applied to this dataset, and obtained the highest accuracy of 88.52 percent and
 Roc AUC of 88.74 percent by applying Random forest over the test data.
 
-# Introduction -----------------------------------------------------------------
+# Introduction 
 The name "Cardiovascular" is derived from the combination of two terms,
 "Cardio" and "Vascular." The term "cardio" refers to the heart, whereas the term
 "vascular" refers to all veins in the body. Cardiovascular diseases (CVD) are the
