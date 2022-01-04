@@ -1,6 +1,6 @@
 # Prediction-of-likeliness-of-cardiovascular-disease-using-machine-learning-algorithms
 
-#Introduction 
+# Introduction 
 A cardiovascular disease (CVD) is a disorder that affects the heart or blood
 vessels. Cardiovascular illnesses include heart attacks, heart failure, arrhythmia,
 coronary heart disease, and many others. Smoking, blood pressure, cholesterol
@@ -22,7 +22,7 @@ preprocessing and scaling approaches to clean the dataset, different classifiers
 applied to this dataset, and obtained the highest accuracy of 88.52 percent and
 Roc AUC of 88.74 percent by applying Random forest over the test data.
 
-#Documentation
+# Documentation
 One can find out more about the machine learning algorithms used to predict the likeliness of cardiovascular disease in the https://github.com/shubham20315/Prediction-of-likeliness-of-cardiovascular-disease-using-machine-learning-algorithms/blob/main/Heart%20Stroke%20Prediction.pdf and you can find out our working model in a mobile application  at https://github.com/shubham20315/Prediction-of-likeliness-of-cardiovascular-disease-using-machine-learning-algorithms/blob/main/Heart-Stroke-Prediction-app.apk
 
 # Dataset Description
@@ -35,12 +35,12 @@ field describes heart disease in the patient. The patient's heart problem is
 described in the target field. This is an integer value, with 0 indicating no heart
 disease and 1 indicating heart disease.
 
-#Installation of Prediction Model
+# Installation of Prediction Model
 
-#Prerequisite
+# Prerequisite
 One needs Python 3.6 with standard libraries such as pandas, matplotlib, seaborn, numpy,sklearn and imblearn.
 
-#Steps to run the code
+# Steps to run the code
 1) Download the code using https://github.com/shubham20315/Prediction-of-likeliness-of-cardiovascular-disease-using-machine-learning-algorithms/blob/main/Final_Code_project.ipynb
 2) Downlaod the dataset using https://github.com/shubham20315/Prediction-of-likeliness-of-cardiovascular-disease-using-machine-learning-algorithms/blob/main/heart.csv
 3) You can run the code in your local machine having python 3.6 and libraries or you can use the Google Collab for running code without any difficulty.
